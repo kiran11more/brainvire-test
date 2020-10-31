@@ -602,6 +602,7 @@ img:hover + .button, .button:hover {
 #testimonials .carousel-indicators {
     top: 0;
     justify-content: flex-end;
+    margin: 0;
 }
 
 
